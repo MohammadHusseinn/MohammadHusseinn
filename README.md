@@ -57,14 +57,10 @@ After playback, the app automatically **translates the recorded speech to Arabic
 - 🔊 Audio playback  
 - 🌐 Automatic translation to Arabic  
 - ⚙️ **Tech Used:** Flutter  
-- 📌 **Status:** (Update: Finished / In Progress)
+- 📌 **Status:** (finished)
 
 👉 **GitHub Link (Coming Soon)**
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mhmadhsein&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmadhsein&theme=tokyonight" />
-</p>
+
