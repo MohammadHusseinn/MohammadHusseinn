@@ -46,9 +46,9 @@
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
-## **📌 Audio Record App**
+## 📌 Audio Record App
 A mobile application that allows users to record audio, save it in a Recording List page, and replay it anytime.  
 After playback, the app automatically **translates the recorded speech to Arabic** using the **Munsit API**.
 
@@ -57,15 +57,15 @@ After playback, the app automatically **translates the recorded speech to Arabic
 - 🔊 Audio playback  
 - 🌐 Automatic translation to Arabic  
 - ⚙️ **Tech Used:** Flutter  
-- 📌 **Status:** (finished)
+- 📌 **Status:** Finished  
+- 🔗 **GitHub Repository:** https://github.com/MohammadHusseinn/audio-record_app
 
-👉 **GitHub:**
-      https://github.com/MohammadHusseinn/audio-record_app
+
 ---
 
 ## 📌 Face Detection App
 A real-time facial expression detector built with **Flutter** and **Google ML Kit**.  
-The app recognizes **happy, sad, and neutral** facial expressions directly through the device camera with fast, on-device processing.
+The app recognizes **happy, sad, and neutral** facial expressions through the device camera with fast on-device ML.
 
 - 📷 Live camera face detection  
 - 😀 Emotion recognition (happy / sad / neutral)  
@@ -74,8 +74,5 @@ The app recognizes **happy, sad, and neutral** facial expressions directly throu
 - 📱 Smooth real-time preview  
 - ⚙️ **Tech Used:** Flutter  
 - 📌 **Status:** Finished  
-
-👉 **GitHub:**
-      https://github.com/MohammadHusseinn/face_detection
+- 🔗 **GitHub Repository:** https://github.com/MohammadHusseinn/face_detection
 ---
-
