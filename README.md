@@ -59,7 +59,7 @@ After playback, the app automatically **translates the recorded speech to Arabic
 - ⚙️ **Tech Used:** Flutter  
 - 📌 **Status:** (finished)
 
-👉 **GitHub Link (Coming Soon)**
+👉 **GitHub Repository:**
       https://github.com/MohammadHusseinn/audio-record_app
 ---
 
