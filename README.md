@@ -60,7 +60,22 @@ After playback, the app automatically **translates the recorded speech to Arabic
 - 📌 **Status:** (finished)
 
 👉 **GitHub Link (Coming Soon)**
-
+      https://github.com/MohammadHusseinn/audio-record_app
 ---
+
+## 📌 Face Detection App
+A real-time facial expression detector built with **Flutter** and **Google ML Kit**.  
+The app recognizes **happy, sad, and neutral** facial expressions directly through the device camera with fast, on-device processing.
+
+- 📷 Live camera face detection  
+- 😀 Emotion recognition (happy / sad / neutral)  
+- ⚡ On-device ML processing  
+- 🔥 Powered by Google ML Kit  
+- 📱 Smooth real-time preview  
+- ⚙️ **Tech Used:** Flutter  
+- 📌 **Status:** Finished  
+
+👉 **GitHub Repository:**  
+https://github.com/MohammadHusseinn/face_detection
 
 
