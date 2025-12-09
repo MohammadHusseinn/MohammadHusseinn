@@ -75,7 +75,7 @@ The app recognizes **happy, sad, and neutral** facial expressions directly throu
 - ⚙️ **Tech Used:** Flutter  
 - 📌 **Status:** Finished  
 
-👉 **GitHub Repository:**  
-https://github.com/MohammadHusseinn/face_detection
-
+👉 **GitHub Repository:**
+      https://github.com/MohammadHusseinn/face_detection
+---
 
