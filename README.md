@@ -58,7 +58,7 @@ After playback, the app automatically **translates the recorded speech to Arabic
 - 🌐 Automatic translation to Arabic  
 - ⚙️ **Tech Used:** Flutter  
 - 📌 **Status:** Finished  
-- 🔗 **GitHub Repository:** https://github.com/MohammadHusseinn/audio-record_app
+- 🔗 **GitHub:** https://github.com/MohammadHusseinn/audio-record_app
 
 
 ---
@@ -74,5 +74,5 @@ The app recognizes **happy, sad, and neutral** facial expressions through the de
 - 📱 Smooth real-time preview  
 - ⚙️ **Tech Used:** Flutter  
 - 📌 **Status:** Finished  
-- 🔗 **GitHub Repository:** https://github.com/MohammadHusseinn/face_detection
+- 🔗 **GitHub:** https://github.com/MohammadHusseinn/face_detection
 ---
