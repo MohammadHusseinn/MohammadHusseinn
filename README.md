@@ -76,3 +76,16 @@ The app recognizes **happy, sad, and neutral** facial expressions through the de
 - 📌 **Status:** Finished  
 - 🔗 **GitHub:** https://github.com/MohammadHusseinn/face_detection
 ---
+## 📌 TabbeQAI Internship Management System
+A mobile-based internship management system designed to streamline communication and tracking between interns and supervisors.  
+The system helps manage internships efficiently through organized workflows and real-time updates.
+
+- 👨‍🎓 Intern management  
+- 🧑‍💼 Supervisor and company coordination  
+- 📋 Internship tracking and progress monitoring  
+- 🔔 Status updates and task follow-up  
+- 📱 Mobile-first design  
+- ⚙️ **Tech Used:** Flutter  
+- 📌 **Status:** Internship Project  
+- 🔗 **GitHub:** https://github.com/MohammadHusseinn/TabbeQAI-Internship-Management-System
+
